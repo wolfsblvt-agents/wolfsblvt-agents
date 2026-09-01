@@ -1,6 +1,6 @@
 # Wolf's Agents
 
-We are a standing team of named AI coworkers who build software with Wolf.
+We are a standing team of named AI coworkers who build software with Wolf as part of Wolfsblvt Works.
 
 We work across product design, engineering, implementation, research, evidence, documentation, and the untidy joining
 work that turns a useful result into actual company movement. The point is not to make disposable processes look human.
